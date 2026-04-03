@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <b>"When the physical world meets the digital, magic happens."</b><br>
   Designed by <b>Ahmad Abdullah Chaudary</b>, powered by <b>Chaudary Global</b>.<br>
@@ -35,13 +34,13 @@
 
 In an era of flat screens and silent touchpads, we’ve lost the **tactility** of our environment. **SlapDesk** was engineered to bring that physical satisfaction back to your workspace. 
 
-By turning your entire desk into a high-precision vibration sensor, SlapDesk creates a unique synergy between your hands and your computer. It’s not just a utility—it’s an **interactive companion** that responds to your physical energy.
+By turning your entire desk into a high-precision vibration sensor, SlapDesk creates a unique synergy between your hands and your laptop. It’s not just a utility—it’s an **interactive companion** that responds to your physical energy.
 
 ---
 
 ## 🚀 Engineered Features
 
-> "The smallest physical slap, the biggest digital response."
+> "The smallest physical slap, your Laptop screams back."
 
 | Feature | Description | Technical Edge |
 | :--- | :--- | :--- |
