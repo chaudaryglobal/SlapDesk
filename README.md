@@ -1,11 +1,27 @@
 # <p align="center">🖐️ SlapDesk: The Future of Tactile Desktop Feedback</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-V1.0.0-FF3366?style=for-the-badge" alt="Release">
-  <img src="https://img.shields.io/badge/Website-slapdesk.site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  <img src="https://img.shields.io/badge/Company-Chaudary_Global-000000?style=for-the-badge" alt="Company">
-  <img src="https://img.shields.io/badge/Platform-Windows_10/11-blue?style=for-the-badge&logo=windows" alt="Platform">
+  <!-- Direct download link for the v1.0.0 executable -->
+  <a href="https://github.com/chaudaryglobal/SlapDesk/releases/download/v1.0.0/SlapDesk.Setup.1.0.0.exe">
+    <img src="https://img.shields.io/badge/Release-V1.0.0-FF3366?style=for-the-badge" alt="Release">
+  </a>
+  
+  <!-- Link to your official website -->
+  <a href="https://slapdesk.site">
+    <img src="https://img.shields.io/badge/Website-slapdesk.site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  
+  <!-- Link to the Chaudary Global GitHub profile -->
+  <a href="https://github.com/chaudaryglobal">
+    <img src="https://img.shields.io/badge/Company-Chaudary_Global-000000?style=for-the-badge" alt="Company">
+  </a>
+  
+  <!-- Funnel back to the website for Windows 10/11 info -->
+  <a href="https://slapdesk.site">
+    <img src="https://img.shields.io/badge/Platform-Windows_10/11-blue?style=for-the-badge&logo=windows" alt="Platform">
+  </a>
 </p>
+
 
 <p align="center">
   <b>"When the physical world meets the digital, magic happens."</b><br>
