@@ -2,13 +2,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Release-V1.0.0-FF3366?style=for-the-badge" alt="Release">
+  <img src="https://img.shields.io/badge/Website-slapdesk.site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   <img src="https://img.shields.io/badge/Company-Chaudary_Global-000000?style=for-the-badge" alt="Company">
   <img src="https://img.shields.io/badge/Platform-Windows_10/11-blue?style=for-the-badge&logo=windows" alt="Platform">
 </p>
 
 <p align="center">
   <b>"When the physical world meets the digital, magic happens."</b><br>
-  Designed by <b>Ahmad Abdullah Chaudary</b>, powered by <b>Chaudary Global</b>.
+  Designed by <b>Ahmad Abdullah Chaudary</b>, powered by <b>Chaudary Global</b>.<br>
+  Official Home: <a href="https://slapdesk.site"><b>slapdesk.site</b></a>
 </p>
 
 ---
@@ -78,5 +80,6 @@ To ensure this remains free for the community, the application includes a non-in
 
 <p align="center">
   <b>Chaudary Global © 2026. All Rights Reserved.</b><br>
+  Official Project Portal: <a href="https://slapdesk.site"><b>slapdesk.site</b></a><br>
   <i>"Building the bridge between physical and digital reality."</i>
 </p>
