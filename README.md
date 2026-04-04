@@ -1,100 +1,276 @@
-# <p align="center">🖐️ SlapDesk: The Future of Tactile Desktop Feedback</p>
+<!-- SLAPDESK README -->
+<div align="center">
 
-<p align="center">
-  <!-- Direct download link for the v1.0.0 executable -->
-  <a href="https://github.com/chaudaryglobal/SlapDesk/releases/download/v1.0.0/SlapDesk.Setup.1.0.0.exe">
-    <img src="https://img.shields.io/badge/Release-V1.0.0-FF3366?style=for-the-badge" alt="Release">
-  </a>
-  
-  <!-- Link to your official website -->
-  <a href="https://slapdesk.site">
-    <img src="https://img.shields.io/badge/Website-slapdesk.site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  
-  <!-- Link to the Chaudary Global GitHub profile -->
-  <a href="https://github.com/chaudaryglobal">
-    <img src="https://img.shields.io/badge/Company-Chaudary_Global-000000?style=for-the-badge" alt="Company">
-  </a>
-  
-  <!-- Funnel back to the website for Windows 10/11 info -->
-  <a href="https://slapdesk.site">
-    <img src="https://img.shields.io/badge/Platform-Windows_10/11-blue?style=for-the-badge&logo=windows" alt="Platform">
-  </a>
-</p>
+```
+███████╗██╗      █████╗ ██████╗ ██████╗ ███████╗███████╗██╗  ██╗
+██╔════╝██║     ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██║ ██╔╝
+███████╗██║     ███████║██████╔╝██║  ██║█████╗  ███████╗█████╔╝ 
+╚════██║██║     ██╔══██║██╔═══╝ ██║  ██║██╔══╝  ╚════██║██╔═██╗ 
+███████║███████╗██║  ██║██║     ██████╔╝███████╗███████║██║  ██╗
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <b>"When the physical world meets the digital, magic happens."</b><br>
-  Designed by <b>Ahmad Abdullah Chaudary</b>, powered by <b>Chaudary Global</b>.<br>
-  Official Home: <a href="https://slapdesk.site"><b>slapdesk.site</b></a>
-</p>
+### 💥 Your Laptop Fights Back 😈
 
----
+<br/>
 
-## 🌟 The Vision: Why SlapDesk?
+[![Version](https://img.shields.io/badge/version-1.0.0-ff3333?style=for-the-badge&logo=github)](https://github.com)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://slapdesk.site)
+[![License](https://img.shields.io/badge/license-MIT-00cc66?style=for-the-badge)](LICENSE)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-slapdesk.site-ff3333?style=for-the-badge)](https://slapdesk.site)
+[![Made with Rage](https://img.shields.io/badge/made%20with-pure%20rage-ff6600?style=for-the-badge)](https://slapdesk.site)
 
-In an era of flat screens and silent touchpads, we’ve lost the **tactility** of our environment. **SlapDesk** was engineered to bring that physical satisfaction back to your workspace. 
+<br/>
 
-By turning your entire desk into a high-precision vibration sensor, SlapDesk creates a unique synergy between your hands and your laptop. It’s not just a utility—it’s an **interactive companion** that responds to your physical energy.
+> **"I slapped my laptop… and it screamed back."** 💀
+
+<br/>
+
+**[⬇️ Download](https://slapdesk.site)** • **[🎥 Demo](#-demo)** • **[⚡ Features](#-features)** • **[🛠 Tech](#️-tech-stack)** • **[🔥 Roadmap](#-roadmap)**
+
+</div>
 
 ---
 
-## 🚀 Engineered Features
+## 🤯 What Is SlapDesk?
 
-> "The smallest physical slap, your Laptop screams back."
+You ever get so frustrated at your computer that you just... **smack the desk?**
 
-| Feature | Description | Technical Edge |
-| :--- | :--- | :--- |
-| **🌪️ Vibration Engine** | Proprietary algorithm for real-time kinetic detection. | High-precision amplitude sensing. |
-| **🎵 Dynamic Soundscape** | Immersive auditory feedback triggered by motion. | Low-latency audio processing. |
-| **🌑 Sleek Dashboard** | A dark-mode, premium UI with real-time analytics. | Glassmorphism + Smooth Transitions. |
-| **💎 Silent Running** | Optimized background process that never sleeps. | Minimal CPU & RAM footprint. |
-| **📦 Pro Installer** | Full-scale Windows Setup Wizard (NSIS). | Professional EULA + Multi-step flow. |
+Yeah. We've all been there.
 
----
+**SlapDesk** turns that raw, unfiltered frustration into pure interactive chaos. It's a Windows desktop app that **listens for vibration**, detects your slap in real-time, and goes absolutely **unhinged** in response.
 
-## 🛠️ The Installation Journey (The Professional Way)
+Sound effects. Rage mode. Combos. Madness.
 
-Unlike "amateur" desktop scripts, SlapDesk comes bundled in a **Legitimate Windows Setup Wizard**. 
-
-1. **Grab the Binary**: Download `SlapDesk Setup 1.0.0.exe`.
-2. **Professional Flow**: Experience a structured installer with localized installation options.
-3. **Trust & Security**: Read and accept the **Chaudary Global EULA** to verify your software source.
-4. **Instant Access**: Automatic desktop and start menu shortcuts are generated for immediate use.
+> 💀 It's not productivity software. It's not a tool. It's a **weapon of stress relief** — and it's glorious.
 
 ---
 
-## 💡 The Inspiration
+## 🎥 Demo
 
-**SlapDesk** draws its creative DNA from the convergence of **Cybernetics** and **ASMR Culture**. We wanted to create a tool that recognizes your presence, your frustration, and your joy. 
+<div align="center">
 
-Whether you’re celebrating a successful code deployment with a high-five to your desk, or simply want to add a layer of sensory depth to your machine—SlapDesk is the answer.
+```
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   👋  SLAP DETECTED                             │
+│                                                 │
+│   ████████████████░░░░  RAGE METER: 78%         │
+│                                                 │
+│   🔊  COMBO x5 — MAXIMUM CHAOS IMMINENT         │
+│                                                 │
+│   💀  RAGE MODE ACTIVATED                       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
----
+**[👉 See a full video demo at slapdesk.site](https://slapdesk.site)**
 
-## 👑 The Founders & Credits
-
-This application is the flagship project of **Chaudary Global**, a hub for premium software development and innovative digital solutions.
-
-### **The Architect**
-#### **Ahmad Abdullah Chaudary**
-> *"I wanted to create something that didn't just sit on the screen, but felt the world around it. SlapDesk is that bridge."*
-> — **Founder & Lead Developer**
-
-### **The Enterprise**
-#### **Chaudary Global**
-Providing the strategic vision and technical infrastructure to turn bold ideas into production-ready software.
-
----
-
-## ⚖️ License & Integrity
-
-SlapDesk is published under a **Chaudary Global Standard MIT License**. 
-To ensure this remains free for the community, the application includes a non-intrusive, premium ad-rotation system. This maintains high server uptime for our `slapdesk.site` assets and supports ongoing development.
+</div>
 
 ---
 
-<p align="center">
-  <b>Chaudary Global © 2026. All Rights Reserved.</b><br>
-  Official Project Portal: <a href="https://slapdesk.site"><b>slapdesk.site</b></a><br>
-  <i>"Building the bridge between physical and digital reality."</i>
-</p>
+## 🔥 How It Works
+
+```
+YOU SLAP YOUR DESK
+        │
+        ▼
+  ┌─────────────┐
+  │  Vibration  │  ◄── Real-time detection engine
+  │  Detected   │
+  └──────┬──────┘
+         │
+         ▼
+  ┌─────────────┐
+  │   Reaction  │  ◄── Sound triggers + UI chaos
+  │   Engine    │
+  └──────┬──────┘
+         │
+         ▼
+  ┌─────────────┐
+  │  RAGE MODE  │  ◄── Combo multiplier activates
+  │  ACTIVATED  │
+  └─────────────┘
+         │
+         ▼
+      😤 💥 🔊
+   PURE. CHAOS.
+```
+
+---
+
+## ⚡ Features
+
+| Feature | Description |
+|---|---|
+| 👋 **Slap Detection** | Real-time vibration-based input — no buttons, no clicks, just violence |
+| 🔊 **Dynamic Sound Reactions** | Low-latency audio engine responds instantly to every hit |
+| 😡 **Rage Mode** | The more you slap, the more unhinged SlapDesk gets |
+| 🎯 **Combo System** | Chain slaps for escalating chaos and insane multipliers |
+| 🎛 **Custom Sounds** | Import your own audio files and make it *personal* |
+| 🌑 **Dark UI Dashboard** | Clean, dark interface so your bloodshot eyes don't suffer |
+| 💎 **Lightweight** | Runs silently in the background — won't slow your machine |
+
+---
+
+## 😤 Who Is This For?
+
+<table>
+<tr>
+<td align="center">🧑‍💻</td>
+<td><strong>Rage Coders</strong><br/>When the bug won't fix itself and the desk pays the price</td>
+</tr>
+<tr>
+<td align="center">🎮</td>
+<td><strong>Frustrated Gamers</strong><br/>Lost the match? Your laptop will know about it</td>
+</tr>
+<tr>
+<td align="center">😤</td>
+<td><strong>Stress Seekers</strong><br/>Cheaper than therapy. Significantly more fun</td>
+</tr>
+<tr>
+<td align="center">💀</td>
+<td><strong>Boredom Destroyers</strong><br/>When literally nothing else is going on</td>
+</tr>
+<tr>
+<td align="center">😂</td>
+<td><strong>Chaos Agents</strong><br/>Let your friends witness the madness and question your sanity</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+```
+┌─────────────────────────────────────────────┐
+│              SlapDesk Architecture          │
+├─────────────────────────────────────────────┤
+│  🖥️  Electron          Desktop app shell    │
+│  📳  Vibration Engine  Real-time detection  │
+│  🔊  Audio System      Low-latency trigger  │
+│  ⚙️  BG Processing     Optimized & silent   │
+└─────────────────────────────────────────────┘
+```
+
+- **Framework:** Electron (cross-platform desktop)
+- **Detection:** Custom real-time vibration detection engine
+- **Audio:** Low-latency audio trigger system
+- **Performance:** Optimized background processing — minimal CPU footprint
+
+---
+
+## 🚀 Getting Started
+
+### Download & Install
+
+```bash
+# Option 1: Direct download
+👉 Visit https://slapdesk.site and hit "Download"
+
+# Option 2: Clone and build from source
+git clone https://github.com/chaudaryglobal/slapdesk.git
+cd slapdesk
+npm install
+npm start
+```
+
+### First Slap
+
+1. **Launch** SlapDesk from your desktop
+2. **Calibrate** sensitivity in the dashboard (optional)
+3. **Slap your desk** with confidence
+4. **Watch your laptop lose its mind** 💀
+
+> ⚠️ **Pro tip:** Start light. Rage Mode escalates *fast.*
+
+---
+
+## 🔥 Roadmap
+
+- [x] Real-time vibration detection
+- [x] Dynamic sound reactions
+- [x] Rage Mode + Combo system
+- [x] Custom sound import
+- [x] Dark UI dashboard
+- [ ] 👊 **Multiplayer slap battles** *(coming soon)*
+- [ ] 🎨 **Custom themes & skins**
+- [ ] 📦 **Expanded sound packs**
+- [ ] 🎛 **Advanced sensitivity controls**
+
+---
+
+## 🧠 The Origin Story
+
+> I was deep in a debugging session at 2AM.  
+> The code wasn't working.  
+> The coffee was cold.  
+> I **hit my desk**.
+>
+> Then I thought: *"What if my laptop reacted to that?"*
+>
+> So I built it. 😈
+>
+> — **Ahmad Abdullah Chaudary**, Creator of SlapDesk
+
+---
+
+## ⭐ Support the Project
+
+If SlapDesk made you laugh, rage, or question your own sanity — show some love:
+
+```
+⭐ Drop a star on GitHub
+🔁 Share it with your most frustrated friend
+💬 Tell us your slap story in the Issues tab
+```
+
+> Ads in the app support ongoing development & hosting. Every slap keeps the lights on. 💀
+
+---
+
+## ⚖️ License
+
+```
+MIT License — with Chaudary Global enhancements
+See LICENSE for full terms.
+```
+
+Free to use, modify, and deploy chaos.
+
+---
+
+## ⚠️ Disclaimer
+
+> SlapDesk is **not responsible** for:
+> - Broken desks
+> - Broken laptops  
+> - Broken friendships  
+> - Noise complaints from your roommates  
+> - Addiction to desk violence
+
+*Slap responsibly.* 💀
+
+---
+
+<div align="center">
+
+## 💥 Ready to Rage?
+
+**[⬇️ Download SlapDesk — slapdesk.site](https://slapdesk.site)**
+
+<br/>
+
+*Built with fury by* **Ahmad Abdullah Chaudary**  
+*Powered by* **Chaudary Global**
+
+<br/>
+
+```
+This is not productivity software.
+This is pure chaos.
+Welcome. 😈
+```
+
+</div>
