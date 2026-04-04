@@ -10,7 +10,7 @@
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-### 💥 Your Laptop Fights Back 😈
+### 💥 Your Laptop Screams Back 😈
 
 <br/>
 
