@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-ff3333?style=for-the-badge&logo=github)](https://github.com)
+[![Version](https://img.shields.io/badge/version-1.0.0-ff3333?style=for-the-badge&logo=github)](https://github.com/chaudarygloabal/slapdesk/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://slapdesk.site)
 [![License](https://img.shields.io/badge/license-MIT-00cc66?style=for-the-badge)](LICENSE)
 [![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-slapdesk.site-ff3333?style=for-the-badge)](https://slapdesk.site)
